@@ -25,10 +25,10 @@ IQR of Pledged	$3,982	$492
 These statistics allow us to judge what is considered 'reasonable ask' in a kickstarter for theater productions.
 
 ### Analysis of Outcomes Based on Launch Date
-Based on launch date, Q2 is the best time to launch a successful campaign. During May campaign success is at its peak when related to launch date. 
+Based on launch date, Q2 is the best time to launch a successful campaign. During May campaign success is at its peak when related to launch date.
 	-
 ### Analysis of Outcomes Based on Goals
-Based on goals, there are just much more low budget shows. More shows means more reliable data. On the surface a show with a budget of 30,000-35,000 seems like a sweet spot, what with its 100% success rate. However, there are only three shows in that budget category to base our analysis and I would say that this is an anomaly of the data. Had we a larger sample size of 30-35k budget shows there would be a greater spread of results. It is likely safer to run a campaign with a budget goal of less than 5k. 
+Based on goals, there are just much more data for low budget shows. More shows means more reliable data. On the surface a show with a budget of 30,000-35,000 seems like a sweet spot, what with its 100% success rate. However, there are only three shows in that budget category to base our analysis and I would say that this is an anomaly of the data. Had we a larger sample size of 30-35k budget shows there would be a greater spread of results. It is likely safer to run a campaign with a budget goal of less than 5k. 
 
 ### Challenges and Difficulties Encountered
 Analysis remains my greatest difficulty. Often even after completing the challenges it's difficult to make definite claims. There are always unanswered questions lurking.
