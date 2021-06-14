@@ -1,14 +1,32 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-I analyzed the variables around the success of 4,113 Kickstarter campaigns including; campaign goals, pledges, country of origin, time of campaign, percent funding and average donation to look for trends among these variables towards campaign success.
+What are the optimal variables for a successful kickstarter campaign? I analyzed the variables around the outcomes of 4,113 Kickstarter campaigns including; campaign goals, pledges, country of origin, time of campaign, percent funding and average donation to look for trends among these variables in relation to campaign success.
 ### Purpose
 Determine the best set of variables to hold a successful kickstarter campaign. Identify trends based on data and relate those to a practical report.
 ## Analysis and Challenges
+I used Excel to organize and analyze the data, including producing descriptive statistics. 
+
+			\Successful Failed	
+Mean Goal		\$5,049	$10,554	
+Median Goal		\$3,000	$5,000	
+Standard Dev Goal	\$7,749	$21,968	
+Upper Quartile of Goal	\$5,000	$10,000	
+Lower Quartile of Goal	\$1,500	$2,000	
+IQR of Goal		\$3,500	$8,000	
+			
+Mean Pledged		\$5,602	$559	
+Median Pledged		\$3,168	$103	
+Standard Dev Pledged	\$8,335	$1,331	
+Upper Quart Pledged	\$5,699	$501	
+Lower Quart Pledged	\$1,717	$9	
+IQR of Pledged		\$3,982	$492	
+			
+These statistics allow us to judge what is considered 'reasonable ask' in a kickstarter for theater productions.
 
 ### Analysis of Outcomes Based on Launch Date
 Based on launch date, Q2 is the best time to launch a successful campaign. During May campaign success is at its peak when related to launch date. 
-
+	-
 ### Analysis of Outcomes Based on Goals
 Based on goals, there are just much more low budget shows. More shows means more reliable data. On the surface a show with a budget of 30,000-35,000 seems like a sweet spot, what with its 100% success rate. However, there are only three shows in that budget category to base our analysis and I would say that this is an anomaly of the data. Had we a larger sample size of 30-35k budget shows there would be a greater spread of results. It is likely safer to run a campaign with a budget goal of less than 5k. 
 
