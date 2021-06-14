@@ -7,20 +7,20 @@ Determine the best set of variables to hold a successful kickstarter campaign. I
 ## Analysis and Challenges
 I used Excel to organize and analyze the data, including producing descriptive statistics. 
 
-			\Successful Failed	
-Mean Goal		\$5,049	$10,554	
-Median Goal		\$3,000	$5,000	
-Standard Dev Goal	\$7,749	$21,968	
-Upper Quartile of Goal	\$5,000	$10,000	
-Lower Quartile of Goal	\$1,500	$2,000	
-IQR of Goal		\$3,500	$8,000	
+	Successful 	Failed	
+Mean Goal	$5,049	$10,554	
+Median Goal	$3,000	$5,000	
+Standard Deviation of Goal	$7,749	$21,968	
+Upper Quartile of Goal	$5,000	$10,000	
+Lower Quartile of Goal	$1,500	$2,000	
+IQR of Goal	$3,500	$8,000	
 			
-Mean Pledged		\$5,602	$559	
-Median Pledged		\$3,168	$103	
-Standard Dev Pledged	\$8,335	$1,331	
-Upper Quart Pledged	\$5,699	$501	
-Lower Quart Pledged	\$1,717	$9	
-IQR of Pledged		\$3,982	$492	
+Mean Pledged	$5,602	$559	
+Median Pledged	$3,168	$103	
+Standard Deviation of Pledged	$8,335	$1,331	
+Upper Quartile of Pledged	$5,699	$501	
+Lower Quartile of Pledged	$1,717	$9	
+IQR of Pledged	$3,982	$492	
 			
 These statistics allow us to judge what is considered 'reasonable ask' in a kickstarter for theater productions.
 
@@ -43,3 +43,4 @@ Analysis remains my greatest difficulty. Often even after completing the challen
 Sample size is a big challenge. There is more data for shows with low budgets. 
 - What are some other possible tables and/or graphs that we could create?
 A box plot of the outcomes based on average donation could help us quickly identify the mean, median and mode of donations in successful campaigns. Knowing the average size of a donation in a successful campaign could be key to the success of our own kickstarter. 
+
