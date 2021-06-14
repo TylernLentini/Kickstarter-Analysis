@@ -7,28 +7,41 @@ Determine the best set of variables to hold a successful kickstarter campaign. I
 ## Analysis and Challenges
 I used Excel to organize and analyze the data, including producing descriptive statistics. 
 
-	Successful 	Failed	
-Mean Goal	$5,049	$10,554	
-Median Goal	$3,000	$5,000	
-Standard Deviation of Goal	$7,749	$21,968	
-Upper Quartile of Goal	$5,000	$10,000	
-Lower Quartile of Goal	$1,500	$2,000	
-IQR of Goal	$3,500	$8,000	
+	Successful 	Failed
+Mean Goal		$5,049	$10,554 
+
+Median Goal		$3,000	$5,000
+
+Standard Dev		$7,749	$21,968	
+
+Upper Quart Goal	$5,000	$10,000	
+
+Lower Quart Goal	$1,500	$2,000	
+
+IQR of Goal		$3,500	$8,000	
 			
-Mean Pledged	$5,602	$559	
-Median Pledged	$3,168	$103	
-Standard Deviation of Pledged	$8,335	$1,331	
-Upper Quartile of Pledged	$5,699	$501	
-Lower Quartile of Pledged	$1,717	$9	
-IQR of Pledged	$3,982	$492	
+Mean Pledged		$5,602	$559	
+
+Median Pledged		$3,168	$103	
+
+Standard Dev Pledged	$8,335	$1,331	
+
+Upper Quart		$5,699	$501
+
+Lower Quart		$1,717	$9	
+
+IQR of Pledged		$3,982	$492	
 			
 These statistics allow us to judge what is considered 'reasonable ask' in a kickstarter for theater productions.
 
 ### Analysis of Outcomes Based on Launch Date
 Based on launch date, Q2 is the best time to launch a successful campaign. During May campaign success is at its peak when related to launch date.
-	-
+
+![](Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 Based on goals, there are just much more data for low budget shows. More shows means more reliable data. On the surface a show with a budget of 30,000-35,000 seems like a sweet spot, what with its 100% success rate. However, there are only three shows in that budget category to base our analysis and I would say that this is an anomaly of the data. Had we a larger sample size of 30-35k budget shows there would be a greater spread of results. It is likely safer to run a campaign with a budget goal of less than 5k. 
+
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 Analysis remains my greatest difficulty. Often even after completing the challenges it's difficult to make definite claims. There are always unanswered questions lurking.
